@@ -1,0 +1,9 @@
+ChatGPT
+
+I'm a CIS-130 student practicing HTML and CSS. I need help making a two page website about a topic of my choice. Use only HTML and CSS. I need semantic HTML, one external stylesheet, relative links, an image with useful alt text, an external link, a class, an ID, a descendant selector, link pseudo-classes, relative and absolute CSS units, float and clear, and one CSS custom property. ONLY use HTML and CSS, no other forms of code. Do not generate any code yet.
+
+My topic is my favorite foods. Using the previous guidelines and instructions I will provide, make a plan for an index.html file and details.html. Tell me which content should go on each page and give me a file/folder checklist. Do not write HTML or CSS yet.
+
+I would like the index.html page to have the title of "My Favorite Foods" with a short tagline that says "My personal favorite foods of the past few years." My top 3 favorite foods in no order are Fried Chicken, Alfredo Pasta, and Tteokbokki or Korean Rice Cakes. I would like a picture next to a short description of each individual food. As well as room for my own personal reasons as to why I like said food. The page will be customized using a separate CSS page so this is just a basic view of the main page.
+
+The details.html page will give a detailed overview on how each food is made as well as a good description of the taste of said food. The pictures used on this page will be different then the ones used on the index.html. The page will have links to websites that show recommended recipes for the foods and credit the user who made said recipe.
